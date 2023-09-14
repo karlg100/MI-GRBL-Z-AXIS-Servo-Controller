@@ -1,7 +1,9 @@
 # MI-GRBL-Z-AXIS-Servo-Controller
 
 ### Overview
-This plug-in allows for servo up or down.  Here is a description of the features of the plug-in.
+This plug-in is a gcode output plugin for Inkscape, and allows for servo up or down.  Here is a description of the features of the plug-in.
+
+***This version/branch of the plugin was written for Inkscape 0.92 and is no longer maintained. It is recommended to upgrade to a newer version of Inkscape and a newer version/branch of this plugin.***
 
 * Servo down:  The command for move servo down.  For example, M03 or M106.
 * Servo up: The command for move servo up.  For example, M05 or M107.
